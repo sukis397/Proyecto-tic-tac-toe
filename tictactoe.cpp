@@ -36,7 +36,7 @@ void clear() {
 #endif
 }
 
-// 🔹 Limpia el buffer de entrada
+
 void clear_buff() {
     cin.clear();
     cin.ignore(10000, '\n');
@@ -163,4 +163,5 @@ int main() {
     } while (repetir);
 
     return 0;
+
 }
