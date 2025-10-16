@@ -1,2 +1,12 @@
-# Proyecto-tic-tac-toe
-Montero Hurtado Esteban & Garzon Gaitan Luis.Pensamiento algoritmico GO2  16/10/2025
+# Proyecto-tic-tac-toe   
+#integrantes   
+Montero Hurtado Esteban & Garzon Gaitan Luis.  
+#curso   
+Pensamiento algoritmico GO2  
+## estructura del repositorio/  
+
+|----readme:md
+|----Montero_Hurtado___Garzon_GAitan_TicTacToe.zip (3) (1)
+|---|---informme_tictactoe
+|---|----pruebas_tictactoe
+|--- diagrama de flujo
