@@ -7,6 +7,6 @@ Pensamiento algoritmico GO2
 
 |----readme:md    
 |----Montero_Hurtado___Garzon_GAitan_TicTacToe.zip (3) (1)     
-|---|---informme_tictactoe     
+|---|---informe_tictactoe     
 |---|----pruebas_tictactoe    
 |--- diagrama de flujo      
