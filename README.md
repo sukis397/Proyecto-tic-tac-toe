@@ -5,8 +5,8 @@ Montero Hurtado Esteban & Garzon Gaitan Luis.
 Pensamiento algoritmico GO2  
 ## estructura del repositorio/  
 
-|----readme:md
-|----Montero_Hurtado___Garzon_GAitan_TicTacToe.zip (3) (1)
-|---|---informme_tictactoe
-|---|----pruebas_tictactoe
-|--- diagrama de flujo
+|----readme:md    
+|----Montero_Hurtado___Garzon_GAitan_TicTacToe.zip (3) (1)     
+|---|---informme_tictactoe     
+|---|----pruebas_tictactoe    
+|--- diagrama de flujo      
